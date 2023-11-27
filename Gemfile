@@ -76,4 +76,5 @@ end
 
 gem 'devise', '~> 4.9'
 gem 'foreman', '~> 0.87.2'
+gem 'jsbundling-rails', '~> 1.0', '>= 1.0.2'
 gem 'tailwindcss-rails', '~> 2.0'
