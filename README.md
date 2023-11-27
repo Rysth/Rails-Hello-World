@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="https://placehold.co/1500x450" />
-  <h3><b>Your Name</b></h3>
+  <img src="./app/assets/images/banner.png" />
+  <h3><b>John Palacios</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -25,9 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Ruby on Rails Template <a name="about-project"></a>
+# 📖 Rails - Hello World <a name="about-project"></a>
 
-**Ruby on Rails Template** description...
+**Rails - Hello World** is a simple full stack web application to learn how to use React & Ruby on Rails together.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -36,6 +36,7 @@
 <details>
   <summary>Client</summary>
   <ul>
+    <li><a href="https://react.dev/">React</a></li>
     <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
     <li><a href="https://www.tailwindcss.com/">TailwindCSS</a></li>
   </ul>
@@ -59,9 +60,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Key Feature**
-- **Key Feature**
-- **Key Feature**
+- **Display Random Message from the Server**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +87,7 @@ To run the project, execute the following command:
   rails server
 ```
 
-And to execute this with TailwindCSS:
+And to execute this with TailwindCSS & Webpack:
 
 ```sh
   ./bin/dev
@@ -123,8 +122,7 @@ Use this command to fix **Stylelint** Errors:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Future Feature**
-- [ ] **Future Feature**
+- [ ] **Create a CRUD application with Message**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -1,7 +1,7 @@
 ## Copyright 2023, John Palacios
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this RoR Blog App and associated documentation files, to deal in the RoR Blog App without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the RoR Blog App, and to permit persons to whom the RoR Blog App is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Rails-Hello-World and associated documentation files, to deal in the Rails-Hello-World without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Rails-Hello-World, and to permit persons to whom the Rails-Hello-World is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the RoR Blog App.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Rails-Hello-World.
 
-THE RoR Blog App IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE RoR Blog App OR THE USE OR OTHER DEALINGS IN THE RoR Blog App.
+THE Rails-Hello-World IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE Rails-Hello-World OR THE USE OR OTHER DEALINGS IN THE Rails-Hello-World.
