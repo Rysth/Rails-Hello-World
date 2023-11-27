@@ -15,8 +15,9 @@ const router = createBrowserRouter([
 function App() {
   return (
     <Provider store={store}>
-      <h1>Hello World</h1>
-      <RouterProvider router={router} />
+      <main class="max-w-screen-xl mx-auto px-4 py-20">
+        <RouterProvider router={router} />
+      </main>
     </Provider>
   );
 }
