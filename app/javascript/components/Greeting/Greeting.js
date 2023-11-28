@@ -15,7 +15,7 @@ function Greeting() {
   return (
     <>
       {!loading && (
-        <section class="py-4 text-center">
+        <section className="py-4 text-center">
           <header className="text-1xl">Greetings</header>
           <p className="text-4xl font-bold">{message?.message}</p>
         </section>
