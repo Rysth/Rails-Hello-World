@@ -75,5 +75,8 @@ group :test do
 end
 
 gem 'devise', '~> 4.9'
+gem 'faker', '~> 3.2'
 gem 'foreman', '~> 0.87.2'
+gem 'jsbundling-rails'
+gem 'rack-cors'
 gem 'tailwindcss-rails', '~> 2.0'

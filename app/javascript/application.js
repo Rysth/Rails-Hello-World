@@ -1,3 +1,25 @@
-// Configure your import map in config/importmap.rb. Read more: https://github.com/rails/importmap-rails
-import "@hotwired/turbo-rails"
-import "controllers"
+import React from 'react';
+import ReactDOM from 'react-dom';
+import { Provider } from 'react-redux';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import Greeting from './components/Greeting/Greeting';
+import store from './redux/store';
+
+const router = createBrowserRouter([
+  {
+    path: '/',
+    element: <Greeting />,
+  },
+]);
+
+function App() {
+  return (
+    <Provider store={store}>
+      <main className="max-w-screen-xl px-4 py-20 mx-auto">
+        <RouterProvider router={router} />
+      </main>
+    </Provider>
+  );
+}
+
+ReactDOM.render(<App />, document.getElementById('root'));
